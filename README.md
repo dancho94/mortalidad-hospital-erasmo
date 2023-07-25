@@ -6,7 +6,7 @@ El dataset crudo fue limpiado y se implementaron algoritmos de Machine Learning 
 
 ## Instalación 🔧
 
-Para utilizar este proyecto, necesitarás Python 3.x y las siguientes librerías:
+Para utilizar este proyecto, necesitarás Python 3.8 y las siguientes librerías:
 
 - Pandas
 - NumPy
