@@ -1,7 +1,7 @@
-# Análisis de Mortalidad en el Hospital Erasmos 🚀
+# Análisis de Mortalidad en el Hospital Erasmo 🚀
 
 Después de terminar mi carrera en Platzi como Data Scientist, decidí hacer varios proyectos y poner en práctica lo aprendido.
-Este proyecto tiene como objetivo analizar los datos de mortalidad en el Hospital Erasmos en Colombia desde el año 2018 hasta el 2022.
+Este proyecto tiene como objetivo analizar los datos de mortalidad en el Hospital Erasmo en Colombia desde el año 2018 hasta el 2022.
 El dataset crudo fue limpiado y se implementaron algoritmos de Machine Learning como Random Forest, Naive Bayes y Redes Neuronales para predecir posibles resultados.
 
 ## Instalación 🔧
