@@ -46,6 +46,10 @@ Durante el análisis exploratorio, se generaron visualizaciones para identificar
 
 ![Porcentajes de Mortalidad](https://github.com/dancho94/mortalidad-hospital-erasmo/blob/main/Porcentaje.jpeg)
 
+![Diagnostico](https://github.com/dancho94/mortalidad-hospital-erasmo/blob/main/Diagnostico_mas_frecuente.jpeg)
+
+![Nube de palabras](https://github.com/dancho94/mortalidad-hospital-erasmo/blob/main/nube.jpeg)
+
 
 
 ## Contribución 🖇️
