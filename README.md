@@ -43,7 +43,8 @@ El dataset original de mortalidad se obtuvo de [https://herasmomeoz.gov.co/datos
 ## Análisis Exploratorio
 
 Durante el análisis exploratorio, se generaron visualizaciones para identificar patrones y relaciones en los datos de mortalidad. Algunos de los hallazgos más relevantes fueron:
-![Porcentajes de Mortalidad](![Captura web_25-7-2023_112540_localhost](https://github.com/dancho94/mortalidad-hospital-erasmo/assets/66430923/a79a63a7-9c40-41cc-b6be-d7d262775857))
+
+![Porcentajes de Mortalidad] ([Captura web_25-7-2023_112540_localhost](https://github.com/dancho94/mortalidad-hospital-erasmo/assets/66430923/a79a63a7-9c40-41cc-b6be-d7d262775857))
 
 
 
