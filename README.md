@@ -44,11 +44,11 @@ El dataset original de mortalidad se obtuvo de [https://herasmomeoz.gov.co/datos
 
 Durante el análisis exploratorio, se generaron visualizaciones para identificar patrones y relaciones en los datos de mortalidad. Algunos de los hallazgos más relevantes fueron:
 
-![Porcentajes de Mortalidad](https://github.com/dancho94/mortalidad-hospital-erasmo/tree/main/Image/Porcentaje.jpeg)
+![Porcentajes de Mortalidad](https://github.com/dancho94/mortalidad-hospital-erasmo/blob/main/Image/Porcentaje.jpeg)
 
-![Diagnostico](https://github.com/dancho94/mortalidad-hospital-erasmo/tree/main/Image/Diagnostico_mas_frecuente.jpeg)
+![Diagnostico](https://github.com/dancho94/mortalidad-hospital-erasmo/blob/main/Image/Diagnostico_mas_frecuente.jpeg)
 
-![Nube de palabras](https://github.com/dancho94/mortalidad-hospital-erasmo/tree/main/Image/nube.jpeg)
+![Nube de palabras](https://github.com/dancho94/mortalidad-hospital-erasmo/blob/main/Image/nube.jpeg)
 
 
 
